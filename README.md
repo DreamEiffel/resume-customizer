@@ -82,3 +82,12 @@ text
 🧑‍💻 转行求职者：需要针对目标岗位重新包装经历
 
 📚 求职陪跑导师/助教：帮学生批量修改简历时，用 Skill 提效
+
+目录结构
+text
+career-coach/
+├── SKILL.md                    ← 核心指令（你只需要这个文件就能跑）
+├── references/                 ← （可选）存放 JD 模板/术语表
+│   └── star_examples.md
+└── assets/                     ← （可选）存放简历模板样式
+    └── resume_template.docx
